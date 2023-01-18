@@ -20,9 +20,9 @@ In the telecom industry, customers are able to choose from multiple service prov
     - Use a dimensionality reduction technique such as PCA to handle large number of attributes and then build a predictive model
 
 ## Approach to solve this business problem
-Step 1 : Introduction -  Business Description, Problem Statement and Objective of the Project
-Step 2 : Data Understanding and Data Preparation
-Step 3 : Exploratory data analysis (EDA)
-Step 4 : Training the model
-Step 5 : Model Prediction and Evaluation
-Step 6 : Recommandations
+- Step 1 : Introduction -  Business Description, Problem Statement and Objective of the Project
+- Step 2 : Data Understanding and Data Preparation
+- Step 3 : Exploratory data analysis (EDA)
+- Step 4 : Training the model
+- Step 5 : Model Prediction and Evaluation
+- Step 6 : Recommandations
